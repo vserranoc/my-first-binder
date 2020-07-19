@@ -4,4 +4,5 @@ pprint
 scipy
 seaborn 
 pandas 
+linearmodels
 
